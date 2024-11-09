@@ -1,0 +1,2 @@
+My tmux configuration
+
